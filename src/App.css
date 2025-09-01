@@ -3,4 +3,11 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: rgba(62, 94, 59, 0.253);
+}
+
+.img-portfolio{
+  width: 200px;
+  border-radius: 50%;
+  border: 5px double #000;
 }
